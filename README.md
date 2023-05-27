@@ -13,4 +13,4 @@ This allows you to use Hasura's Remote Schema feature while still managing user 
 
 
 # Flowchart
-![alt text](https://github.com/clockradios/directus-hasura-authentication-extension/blob/main/flow.png?raw=true)
+![alt text](https://github.com/clockradios/Directus-Hasura-JWT/blob/main/flow.png?raw=true)
